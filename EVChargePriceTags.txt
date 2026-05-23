@@ -1,8 +1,10 @@
 Tesla
 DC: 9,90
+HPC: 9,90
 
 Tesla Other
 DC: 12,30
+HPC: 12,30
 
 ZES
 AC: 9,99
