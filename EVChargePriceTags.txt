@@ -1,0 +1,58 @@
+Tesla
+DC: 9,90
+
+Tesla Other
+DC: 12,30
+
+ZES
+AC: 9,99
+DC: 12,99
+HPC: 16,49
+
+WAT
+AC: 10,99
+DC: 14,49
+
+Trugo
+AC: 9,95
+DC: 14,98
+
+Shell ReCharge
+AC: 11,99
+DC: 13,50
+HPC: 15,99
+
+OnCharge
+AC: 9,99
+DC: 13,50
+
+Voltrun
+AC: 9,90
+DC: 9,99
+
+EŞarj
+AC: 9,90
+DC: 13,50
+
+EnYakıt
+AC: 14,90
+DC: 14,90
+HPC: 14,90
+
+BeeFull
+AC: 9,90
+DC: 13,99
+
+5Şarj
+AC: 8,99
+DC: 15,90
+HPC: 15,90
+
+Astor
+AC: 9,49
+DC: 12,49
+
+Aksa
+AC: 9,90 / 10,90
+DC: 12,49
+HPC: 13,49
