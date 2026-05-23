@@ -1,5 +1,5 @@
 Tesla
-DC: 9,90
+DC: 9,95
 HPC: 9,90
 
 Tesla Other
