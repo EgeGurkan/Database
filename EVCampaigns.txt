@@ -16,7 +16,7 @@
     "detailedDescription": "Yerli otomobil Togg T10X sahiplerine özel! Tüm Trugo DC ve HPC yüksek hızlı şarj istasyonlarında yapacağınız şarj işlemlerinde sabit %25 indirimden faydalanabilirsiniz. Trugo uygulamanıza Togg'unuza ait şasi numarası (VIN) kayıtlı ise indirim doğrudan sepetinize yansıtılır."
   },
   {
-    "title": "ZES & Zorlu Enerji Ortaklığı",
+    "title": "ZES & Zorlu Enerji Ortaklığıolmadı",
     "description": "Zorlu Enerji mesken abonelerine ZES'te %10 İndirim.yerseeennn",
     "companyName": "ZES",
     "isNew": false,
