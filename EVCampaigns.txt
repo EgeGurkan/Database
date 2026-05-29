@@ -1,6 +1,6 @@
 [
   {
-    "title": "ZES - Vodafone Red KampanyasıEGE",
+    "title": "ZES - Vodafone Red Kampanyası",
     "description": "Vodafone Red müşterilerine halka açık ZES istasyonlarında %15 indirim!",
     "companyName": "ZES",
     "isNew": true,
