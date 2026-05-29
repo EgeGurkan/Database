@@ -1,13 +1,5 @@
 [
   {
-    "title": "Enerjisa Müşterilerine %20 Eşarj İndirimi",
-    "description": "Enerjisa Elektrik müşterilerine özel %20 şarj indirimi!",
-    "companyName": "Eşarj",
-    "isNew": true,
-    "promoCode": null,
-    "detailedDescription": "Enerjisa ev veya iş yeri elektrik aboneliği olan müşterilerimize özel tüm Eşarj istasyonlarında geçerli %20 genel indirim. Eşarj uygulamasında 'Profil' bölümündeki Kampanyalar alanından abone numaranız ile indiriminizi aktive edebilirsiniz."
-  },
-  {
     "title": "ZES - Vodafone Red Kampanyası",
     "description": "Vodafone Red müşterilerine halka açık ZES istasyonlarında %15 indirim!",
     "companyName": "ZES",
@@ -31,12 +23,4 @@
     "promoCode": null,
     "detailedDescription": "Evinde Zorlu Enerji elektriğini kullanan müşterilerimize özel, tüm Türkiye'deki ZES şarj noktalarında geçerli %10 anında indirim uygulaması başladı. Zorlu Enerji TC kimlik numaranızla hesabınızı eşleştirerek indirimi kullanmaya başlayabilirsiniz."
   },
-  {
-    "title": "Eşarj Hafta Sonu Fırsatı",
-    "description": "Cumartesi ve Pazar günleri yapılan 50 kWh üzeri AC şarjlarda %10 indirim",
-    "companyName": "Eşarj",
-    "isNew": false,
-    "promoCode": "ESARJ_HFT10",
-    "detailedDescription": "Hafta sonları elektrikli aracınızı daha uygun fiyata şarj edin. Cumartesi ve Pazar günleri AC tip istasyonlarımızda tek seferde gerçekleştireceğiniz 50 kWh ve üzerindeki tüm şarj işlemlerinizde %10 indirim uygulanacaktır. Kodu işlem öncesi girmeniz gerekmektedir."
-  }
 ]
