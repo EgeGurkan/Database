@@ -17,7 +17,7 @@
   },
   {
     "title": "ZES & Zorlu Enerji Ortaklığı",
-    "description": "Zorlu Enerji mesken abonelerine ZES'te %10 İndirim.",
+    "description": "Zorlu Enerji mesken abonelerine ZES'te %10 İndirim.yerseeennn",
     "companyName": "ZES",
     "isNew": false,
     "promoCode": null,
